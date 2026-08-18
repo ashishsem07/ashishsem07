@@ -13,6 +13,5 @@ Product manager, 12+ years. I build AI products and the operating systems around
 **Elsewhere (private repos, happy to walk through them):**
 
 - A ~20-agent operating system that runs a live Google Play app end to end: a deterministic PM-to-Engineer-to-QA workflow that turns backlog items into schema-validated, screenshot-evidenced pull requests, with the invariant that nothing auto-merges.
-- A multi-agent trading research fleet where every agent alerts and only the human executes, and negative backtest results are first-class deliverables.
 
 **Contact:** ashish.sem07@gmail.com
